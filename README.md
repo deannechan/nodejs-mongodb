@@ -17,18 +17,34 @@ Paths:
 
 
 Demo: http://fathomless-tundra-84723.herokuapp.com
+--
 
-GET /users
+### GET /users
+
+
 ![](screenshots/getUsers.png)
 
-GET /user/:id
+
+### GET /user/:id
+
+
 ![](screenshots/getUserId.png)
 
-POST /user
+
+### POST /user
+
+
 ![](screenshots/postUser.png)
 
-PUT /user
+
+### PUT /user
+
+
 ![](screenshots/putUser.png)
 
-DELETE /user
+
+### DELETE /user
+
+
 ![](screenshots/deleteUser.png)
+
