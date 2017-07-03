@@ -6,6 +6,9 @@ Simple crud API using Node.js and MongoDB
 - use Postman for the API
 
 Paths:
+
+| CRUD    | PATH       |
+|---------|------------|
 | GET     | /users     |
 | GET     | /user/:id  |
 | POST    | /user      |
@@ -16,16 +19,16 @@ Paths:
 Demo: http://fathomless-tundra-84723.herokuapp.com
 
 GET /users
-![ScreenShot](https://raw.github.com/deannechan/nodejs-mongodb/master/screenshots/getUsers)
+![](screenshots/getUsers.png)
 
 GET /user/:id
-![ScreenShot](https://raw.github.com/deannechan/nodejs-mongodb/master/screenshots/getUserId)
+![](screenshots/getUserId.png)
 
 POST /user
-![ScreenShot](https://raw.github.com/deannechan/nodejs-mongodb/master/screenshots/postUser)
+![](screenshots/postUser.png)
 
 PUT /user
-![ScreenShot](https://raw.github.com/deannechan/nodejs-mongodb/master/screenshots/putUser)
+![](screenshots/putUser.png)
 
 DELETE /user
-![ScreenShot](https://raw.github.com/deannechan/nodejs-mongodb/master/screenshots/deleteUser)
+![](screenshots/deleteUser.png)
